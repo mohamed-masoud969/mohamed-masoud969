@@ -8,7 +8,7 @@ I specialize in transforming raw data into insightful dashboards and reports to 
 
 ## 📊 Featured Projects
 
-### 🔹 [Sales Dashboard - Power BI](https://github.com/mohamed-masoud969/Sales-Dashboard-PowerBI)
+### 🔹 [Sales Dashboard - Power BI](https://github.com/mohamed-masoud969/Sales-Shipping-Analysis/blob/main/README.md)
 Interactive Power BI dashboard to analyze regional sales, top products, and profit trends.
 
 ### 🔹 [Advanced-CRM-Data-Analysis-Interactive-Power-BI-Dashboard](https://github.com/mohamed-masoud969/Advanced-CRM-Data-Analysis-Interactive-Power-BI-Dashboard)
