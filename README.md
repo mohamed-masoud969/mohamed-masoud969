@@ -11,6 +11,9 @@ I specialize in transforming raw data into insightful dashboards and reports to 
 ### 🔹 [Sales Dashboard - Power BI](https://github.com/mohamed-masoud969/Sales-Dashboard-PowerBI)
 Interactive Power BI dashboard to analyze regional sales, top products, and profit trends.
 
+### 🔹  Advanced-CRM-Data-Analysis-Interactive-Power-BI-Dashboard
+Developed a complete CRM analytics solution using Python and Power BI. Cleaned and prepared data, built a relational data model, and created interactive dashboards with sales funnels, KPIs, and detailed drill-through reports. Enabled dynamic filtering by subsidiary status, sector, and year established. Delivered actionable insights to boost sales performance and decision-making.
+
 ### 🔹 [HR Employee Analytics - Python & Power BI](https://github.com/mohamed-masoud969/Employee-Analytics)
 Analyzed employee satisfaction and training data using Python and Power BI.
 
