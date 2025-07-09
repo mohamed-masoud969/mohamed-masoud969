@@ -21,7 +21,7 @@ Tools used: Power BI, SSIS, Excel, Power Query, DAX
 ### 🔹 [Advanced-CRM-Data-Analysis-Interactive-Power-BI-Dashboard](https://github.com/mohamed-masoud969/Advanced-CRM-Data-Analysis-Interactive-Power-BI-Dashboard)
 Developed a complete CRM analytics solution using Python and Power BI. Cleaned and prepared data, built a relational data model, and created interactive dashboards with sales funnels, KPIs, and detailed drill-through reports. Enabled dynamic filtering by subsidiary status, sector, and year established. Delivered actionable insights to boost sales performance and decision-making.
 
-### 🔹 [CRM Employee Dashboard - Power BI Project](https://github.com/mohamed-masoud969/📊 CRM Employee Dashboard - Power BI Project)
+### 🔹 [CRM Employee Dashboard - Power BI Project](https://github.com/mohamed-masoud969/CRM-Employee-Dashboard---Power-BI-Project)
 Analyzed employee satisfaction and training data using Python and Power BI.
 
 ### 🔹 [Customer Churn Prediction - Python](https://github.com/mohamed-masoud969/Churn-Prediction)
