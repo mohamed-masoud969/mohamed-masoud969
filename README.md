@@ -24,9 +24,7 @@ Developed a complete CRM analytics solution using Python and Power BI. Cleaned a
 ### 🔹 [CRM Employee Dashboard - Power BI Project](https://github.com/mohamed-masoud969/CRM-Employee-Dashboard---Power-BI-Project)
 Analyzed employee satisfaction and training data using Python and Power BI.
 
-### 🔹 [Customer Churn Prediction - Python](https://github.com/mohamed-masoud969/Churn-Prediction)
-Built a machine learning model to predict customer churn with 87% accuracy.
-
+### 🔹 [Customer Service-Call-Center-Performance](https://github.com/mohamed-masoud969/Call-Center-Performance-Dashboard/)
 ---
 
 ## 🛠️ Skills & Tools
