@@ -25,8 +25,9 @@
       <img src="https://img.icons8.com/color/96/artificial-intelligence.png" width="60" alt="Courses"/>
       <h3>Courses & Certifications</h3>
       <ul align="left">
-        <li><b>Machine Learning Fundamentals</b> — Machine Fy</li>
-        <li><b>Skills in Data Analytics</b> — [Provider Name]</li>
+        <li><b>Data Analysis ,Tools</b> — Machine Fy</li>
+        <li><b>Skills in Data Analytics</b> — [LINKED IN]</li>
+        <li><b>Data Analytics ,Tools,basic,languagues PROJ </b> — [Qusay Batoush-Udemy]</li>
       </ul>
     </td>
   </tr>
@@ -40,7 +41,7 @@
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/mohamed-masoud969/Sales-Shipping-Analysis/blob/main/README.md">
-        <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=400&q=80" width="90%" alt="Superstore Sales Analysis"/>
+        <img src="https://github.com/mohamed-masoud969/Sales-Shipping-Analysis/blob/main/Screenshot%202025-06-29%20190145.jpg"/>
         <br>
         <b>Superstore Sales Analysis (2015–2018)</b>
       </a>
@@ -50,7 +51,7 @@
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/mohamed-masoud969/Advanced-CRM-Data-Analysis-Interactive-Power-BI-Dashboard">
-        <img src="https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=400&q=80" width="90%" alt="Advanced CRM Data Analysis"/>
+        <img src="https://github.com/mohamed-masoud969/Advanced-CRM-Data-Analysis-Interactive-Power-BI-Dashboard/blob/main/CRM8.jpg"/>
         <br>
         <b>Advanced CRM Data Analysis - Power BI</b>
       </a>
@@ -62,7 +63,7 @@
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/mohamed-masoud969/CRM-Employee-Dashboard---Power-BI-Project">
-        <img src="https://images.unsplash.com/photo-1465101046530-73398c7f28ca?auto=format&fit=crop&w=400&q=80" width="90%" alt="CRM Employee Dashboard"/>
+        <img src="https://github.com/mohamed-masoud969/CRM-Employee-Dashboard---Power-BI-Project/blob/main/Screenshot%202025-07-06%20200056.jpg"/>
         <br>
         <b>CRM Employee Dashboard - Power BI</b>
       </a>
@@ -72,7 +73,7 @@
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/mohamed-masoud969/Call-Center-Performance-Dashboard/">
-        <img src="https://images.unsplash.com/photo-1519125323398-675f0ddb6308?auto=format&fit=crop&w=400&q=80" width="90%" alt="Call Center Performance"/>
+        <img src="https://github.com/mohamed-masoud969/Call-Center-Performance-Dashboard/blob/main/Screenshot%202025-07-14%20194704.jpg"/>
         <br>
         <b>Call Center Performance Analysis</b>
       </a>
